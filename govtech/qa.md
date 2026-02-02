@@ -18,7 +18,7 @@ For weak points - I sometimes spend extra time ensuring code quality and archite
 
 **Interviewer:** What's a new software or technology you recently worked with?
 
-**Thai:** Recently at FPT from January to November 2025, I worked with the IBM i (AS/400) platform and RPGLE/SQLRPGLE on the SBS Ricoh Warehouse Management System. This was new territory for me - working with legacy systems and DB2 databases. I modernized legacy RPG code to free-format for better maintainability while optimizing query performance. I also used BizBrowser for front-end development in this project.
+**Thai:** From December 2025 to January 2026, I worked on an MVP for an Internal Developer Portal using Backstage - an open-source platform by Spotify that unifies tools, services, and documentation into a single portal. It's built on React and Node.js with a plugin-based architecture. I was responsible for building the user permission system - defining policies, handling authorization, and controlling access to resources and plugins within the portal.
 
 ---
 
