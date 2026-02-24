@@ -1,0 +1,72 @@
+.record-container {
+  margin-top: 20px;
+}
+
+.record-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.record-card h2 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.record-details {
+  margin-bottom: 24px;
+}
+
+.record-field {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.record-field:last-child {
+  border-bottom: none;
+}
+
+.record-field strong {
+  color: #555;
+  font-weight: 600;
+}
+
+.record-field span {
+  color: #333;
+}
+
+.record-navigation {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.nav-button {
+  padding: 10px 24px;
+  font-size: 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  min-width: 100px;
+}
+
+.nav-button:hover:not(:disabled) {
+  background-color: #218838;
+}
+
+.nav-button:active:not(:disabled) {
+  background-color: #1e7e34;
+}
+
+.nav-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}

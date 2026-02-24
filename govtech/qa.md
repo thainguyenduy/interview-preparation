@@ -68,7 +68,7 @@ For strategies, I follow Scrum/Agile methodology with clear sprint goals. I crea
 
 **Interviewer:** How do you see yourself in the next 3 years?
 
-**Thai:** My objectives are to design modern, practical systems and continue architecting solutions for clients. I want to stay current with evolving technology patterns and tools. I aim to accelerate software quality by improving deployment, reliability, and efficacy. I want to expand my leadership impact by mentoring more developers and leading larger, more complex projects. And potentially move toward Enterprise Architect or Engineering Manager roles.
+**Thai:** I see AI-assisted coding tools like Claude Code, GitHub Copilot, and Antigravity as a major trend shaping our industry. In the next 3 years, I want to master working effectively with these AI systems to boost productivity and code quality. At the same time, I'm very mindful of data protection - learning how to leverage AI tools while ensuring client data remains secure and never exposed to external systems. Beyond that, I want to continue designing modern, practical architectures and expand my leadership impact by mentoring developers and leading larger projects.
 
 ---
 
@@ -100,7 +100,7 @@ For solutions, I designed a Backend-for-Frontend architecture to manage complexi
 
 **Interviewer:** Have you had any success in your last project?
 
-**Thai:** In SBS Ricoh WMS, I fixed production issues and improved system stability across core modules. I optimized DB2 queries and reorganized files to improve processing speed. I modernized legacy RPG code to free-format for better maintainability. And I successfully supported daily warehouse operations with minimal downtime.
+**Thai:** In my most recent project - the Internal Developer Portal MVP using Backstage - the customer was satisfied with the deliverables and the feedback was positive. We successfully built the permission system and delivered the MVP on target. However, there's no information yet about the next steps or whether the project will continue beyond the MVP phase. Before that, in SBS Ricoh WMS, I fixed production issues and improved system stability across core modules, optimized DB2 queries to improve processing speed, and modernized legacy RPG code for better maintainability.
 
 ---
 
